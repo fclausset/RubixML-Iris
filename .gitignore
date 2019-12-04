@@ -3,3 +3,4 @@ composer.lock
 report.json
 .vscode
 .vs
+.idea/
